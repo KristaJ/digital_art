@@ -4,4 +4,4 @@
 - Files include photo.py which launches a dash app and photo_art.pynb which is a jupyter notebook
 
 ### Sample Image
-![newplot (18)](https://user-images.githubusercontent.com/8129125/147475532-a24f0086-e8fe-4a60-b9fa-453a93a41186.png)
+![newplot (19)](https://user-images.githubusercontent.com/8129125/147476234-52b5ca5c-a93c-4686-b9b7-d9cb9326510d.png)
