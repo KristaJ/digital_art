@@ -4,6 +4,7 @@ from assets import layout as lo
 from assets import transform as tf
 from assets import dash_reusable_components as drc
 import dash_bootstrap_components as dbc
+from dash import html
 import flask
 from PIL import Image
 import plotly.express as px
